@@ -2,3 +2,7 @@ th {
   text-align: left;
   font-weight: normal;
 }
+
+ol {
+  margin-bottom: 15px;
+}
